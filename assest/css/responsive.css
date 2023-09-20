@@ -1,0 +1,398 @@
+@media screen and (max-width: 1336px) {
+  .table-info {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 1110px) {
+  .cartoon {
+    width: auto;
+    margin: 6px auto 50px auto;
+  }
+  .cartoon p {
+    padding: 12px 6px;
+    font-size: 14px;
+  }
+  .cartoon img {
+    padding: 12px;
+  }
+  .footer p {
+    width: auto;
+    padding-bottom: 50px 20px;
+  }
+}
+@media screen and (max-width: 950px) {
+  .bonus-card {
+    width: auto;
+    margin: 0px 20px;
+  }
+  .table-info {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .banner-vedio {
+    width: 80%;
+  }
+  .card-info {
+    background-color: white;
+    width: auto;
+  }
+  .card-heading {
+    width: auto;
+    padding-left: 150px;
+  }
+  .card-heading h4 {
+    margin: 0px 0px 0px -40px;
+    width: auto;
+    padding-left: 5px;
+  }
+  .card-heading h1 {
+    font-size: 25px;
+    width: auto;
+    margin: 0px 0px 5px -60px;
+  }
+  .card-logo {
+    display: none;
+  }
+  .card-text {
+    padding-left: 120px;
+    font-size: 14px;
+    width: auto;
+  }
+  .card-img img {
+    position: absolute;
+    top: -10px;
+    right: -210px;
+    height: 250px;
+    width: auto;
+  }
+  .card2 {
+    display: flex;
+    position: relative;
+    margin-top: 35px;
+  }
+  .card-info2 {
+    background-color: white;
+    margin: 0px 100px 0px 40px;
+    width: auto;
+  }
+  .card2-heading {
+    width: auto;
+    padding: 0px;
+    margin: 0px 200px 0px 0px;
+  }
+  .card-info2 h3 {
+    padding: 12px 70px 0px 0px;
+  }
+  .card-info2 h1 {
+    padding: 0px 10px 0px auto;
+    font-size: 25px;
+    width: 356px;
+  }
+  .card2-text {
+    width: auto;
+    padding: 12px 12px;
+    margin: 0px 270px 0px 0px;
+  }
+  .card2-text p {
+    padding-top: 0px;
+    width: auto;
+  }
+  .card2-logo {
+    display: none;
+  }
+  .card2-heading {
+    width: 275px;
+  }
+  .days-img {
+    display: none;
+  }
+  .everything {
+    width: auto;
+  }
+  .everything p {
+    padding: 25px 12px;
+    width: auto;
+  }
+  .everything h1 {
+    font-size: 50px;
+  }
+  .picture img {
+    width: 480px;
+    min-width: auto;
+  }
+  .table-text {
+    width: auto;
+    padding: 0px 0px 0px 20px;
+  }
+  .table-info {
+    padding: 0px 0px 0px 20px;
+  }
+  .bonus-card {
+    width: auto;
+    display: block;
+    padding: 0px;
+    margin-bottom: 25px;
+  }
+  .bonus-card img {
+    display: none;
+  }
+  .bouns-card-text strong {
+    padding: 5px;
+    align-items: center;
+  }
+  .bouns-card-text {
+    padding: 8px;
+    text-align: center;
+  }
+  .bouns-card-text p {
+    font-size: 16px;
+  }
+  .hide {
+    display: none;
+  }
+  .table-info {
+    padding: 0px 0px 0px 20px;
+  }
+  .cartoon {
+    width: auto;
+    margin: 6px auto 50px auto;
+  }
+  .footer p {
+    width: auto;
+    padding-bottom: 50px 20px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .card2-heading {
+    width: 275px;
+  }
+  .card2-text p {
+    width: 370px;
+  }
+  .table-info {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 790px) {
+  .days-text img{
+    width: 100%;
+}
+  .card2-logo {
+    display: none;
+  }
+  .card2-img {
+    bottom: inherit;
+    top: -20px;
+    right: -40px;
+  }
+  .card-info2 h1 {
+    width: 356px;
+    padding: 0px 0px 0px 0px;
+  }
+  .card2-text p {
+    width: 350px;
+  }
+  .table-text {
+    padding: 0px;
+  }
+  .table-info {
+    padding: 0px;
+  }
+  .lunch {
+    width: auto;
+    margin: 40px 20px;
+  }
+  .lunch p {
+    padding: 10px;
+    font-size: 20px;
+  }
+  .lunch-text {
+    width: auto;
+    margin: 20px auto;
+  }
+  .cartoon {
+    width: auto;
+    margin: 6px auto 50px auto;
+  }
+}
+@media screen and (max-width: 740px) {
+  .card2-text p {
+    width: 260px;
+  }
+  .bluebanner-img {
+    width: 650px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .promotion-text {
+    font-size: 14px;
+  }
+  .logo-text {
+    padding: 0px 50px;
+    font-weight: 400;
+  }
+  .table {
+    display: block;
+    width: auto;
+  }
+  .table-text {
+    width: auto;
+  }
+  .table-info {
+    width: auto;
+  }
+  .bluebanner-img {
+    width: auto;
+  }
+  .bluebanner-img img {
+    width: 280px;
+  }
+  .cartoon {
+    width: auto;
+    margin: 6px auto 50px auto;
+  }
+  .download {
+    width: 400px;
+  }
+  .payment-img img {
+    width: 450px;
+    height: 450px;
+  }
+  .loseweight {
+    width: auto;
+    height: 125px;
+    padding: 0px 0px;
+    margin: 0px 15px;
+  }
+  .loseweight h1 {
+    font-size: 28px;
+  }
+  .arrow {
+    padding: 10px 0px 150px 400px;
+  }
+  .visa {
+    margin: 72px 0px;
+  }
+  .card-info2 h1 {
+    width: auto;
+    padding: 0px;
+    margin: 0px;
+  }
+  .lunch h1 {
+    font-size: 34px;
+    font-weight: 600;
+  }
+  .lunch h3 {
+    font-size: 20px;
+    font-weight: 600;
+  }
+}
+@media screen and (max-width: 630px) {
+  .card-info {
+    margin-left: -200px;
+    width: auto;
+  }
+  .card-heading {
+    width: auto;
+    padding-left: 150px;
+  }
+  .card-heading h4 {
+    margin: 0px 0px 0px -40px;
+    padding-left: 5px;
+  }
+  .card-heading h1 {
+    margin: 0px 0px 5px -90px;
+  }
+  .card-logo {
+    display: none;
+  }
+  .card-text {
+    width: auto;
+    padding-left: 120px;
+  }
+  .card-img img {
+    display: none;
+  }
+  .card2-img {
+    display: none;
+  }
+  .card-info3 {
+    margin: 0px 5px 0px 5px;
+  }
+  .card-info2 {
+    background-color: white;
+    margin: 120px 5px 0px 5px;
+    width: 715px;
+  }
+  .card2-heading {
+    text-align: justify;
+    width: auto;
+  }
+  .card2-text {
+    width: 100%;
+  }
+  .card-info2 h3 {
+    padding: 12px 0px 0px 40px;
+  }
+  .card2-text p {
+    width: auto;
+  }
+}
+@media screen and (max-width: 550px) {
+  body{
+    overflow-x: hidden;
+    width: 100% !important;
+  }
+
+.bor2{
+  width: 100%;
+}
+  .terminologies{
+    width: 100%;
+  }
+  .days{
+    width: 100%;
+  }
+  .everything{
+    width: 100%;
+  }
+  .picture{
+    width: 100%;
+  }
+  .bonus{
+    width: 100%;
+  }
+  .guarantee{
+    width: 100%;
+  }
+
+  .card2-text p{
+    width: 270px;
+  }
+  .picture img{
+    width: 100%;
+  }
+  .payment-img img{
+    width: 100%;
+  }
+  .fa-arrow-pointer{
+    display: none;
+  }
+  .loseweight h1{
+    font-size: 25px;
+  }
+  .download{
+    margin: 0px;
+    width: 100%;
+  }
+  .lunch h1{
+    font-size: 30px;
+  }
+  .lunch h3{
+    font-size: 16px;
+  }
+  .visa img{
+    width: 100%;
+  }
+}
